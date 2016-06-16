@@ -1,2 +1,2 @@
 # TimeTrackerRelease
-Public releases for Time Tracker v0.9.4
+Public releases for Time Tracker v0.9.5
