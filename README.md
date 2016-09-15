@@ -1,2 +1,2 @@
 # OptimusTimeRelease
-Public releases for OptimusTime v1.0.9
+Public releases for OptimusTime v1.1.0
