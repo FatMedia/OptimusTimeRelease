@@ -26,7 +26,7 @@ you will need to head [here](https://www.microsoft.com/en-us/download/details.as
 
 When the program starts you should see something like the following:
 
-![Time Tracker Overview]instructions/overview.png "Main Time Tracking screen")
+![Time Tracker Overview](instructions/overview.png "Main Time Tracking screen")
 
 The functionality available should speak for itself but the following is a breakdown of what's available. Please note that *Job Number* and *Description* are **always** required.
 
