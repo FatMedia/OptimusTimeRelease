@@ -104,4 +104,4 @@ There are a couple of settings currently available including the ability to chan
 
 ## Copyright and License
 
-Copyright [Fat Media](http://www.fatmedia.co.uk) GmbH under the [MIT license](LICENSE.md).
+Copyright [Fat Media Ltd](http://www.fatmedia.co.uk) under the [MIT license](LICENSE.md).
