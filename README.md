@@ -4,12 +4,12 @@ Public releases for OptimusTime v1.1.0
 
 **The Fat Media Time Tracker**
 
-An internal platform app for tracking and logging time to Fatranet. Get the latest version [here](https://github.com/FatMedia/OptimusTime/releases/latest).
+An internal platform app for tracking and logging time to Fatranet. Get the latest version [here](https://github.com/FatMedia/OptimusTimeRelease/releases/latest).
 
 
 ## Installation
 
-Download the [package](https://github.com/FatMedia/OptimusTime/releases/latest) for your platform and save somewhere then run the executable. For Windows users you will have a shortcut added to your Startup folder so that the app runs when you start your computer.
+Download the [package](https://github.com/FatMedia/OptimusTimeRelease/releases/latest) for your platform and save somewhere then run the executable. For Windows users you will have a shortcut added to your Startup folder so that the app runs when you start your computer.
 
 
 ### Installation Issues
