@@ -16,7 +16,7 @@ Download the [package](https://github.com/FatMedia/OptimusTime/releases/latest) 
 
 You will need to have at least the Visual Studio Redistributable Tools installed on a Windows machine to run the Time Tracker. If you have installed it and get something like the following:
 
-![Time Tracker Error](Site/instructions/error.jpg "Windows .dll Error")
+![Time Tracker Error](instructions/error.jpg "Windows .dll Error")
 
 you will need to head [here](https://www.microsoft.com/en-us/download/details.aspx?id=48145) and download the tools.
 
@@ -26,11 +26,11 @@ you will need to head [here](https://www.microsoft.com/en-us/download/details.as
 
 When the program starts you should see something like the following:
 
-![Time Tracker Overview](Site/instructions/overview.png "Main Time Tracking screen")
+![Time Tracker Overview]instructions/overview.png "Main Time Tracking screen")
 
 The functionality available should speak for itself but the following is a breakdown of what's available. Please note that *Job Number* and *Description* are **always** required.
 
-![Time Tracker Annotation](Site/instructions/annotated.png "Main Time Tracking screen: annotated")
+![Time Tracker Annotation](instructions/annotated.png "Main Time Tracking screen: annotated")
 
 The blue bar at the top can be used to drag the window around and the position should be saved in case you need to close the application or your computer restarts. It will also save anything not yet logged until the app is reset manually. There is an offline mode, which will still allow you to log time and save it locally. When a connection to fatranet is found it will automatically log anything outstanding.
 
@@ -42,7 +42,7 @@ In the event of a crash you can reload the application from `Start > Fat Media L
 
 To start, press the 'play' button. You can pause the timer with the 'pause' button and the 'stop' button will stop timing and log any time counted.
 
-![Time Tracker Timing](Site/instructions/timing.png "Main Time Tracking screen timing")
+![Time Tracker Timing](instructions/timing.png "Main Time Tracking screen timing")
 
 ---
 
@@ -50,7 +50,7 @@ To start, press the 'play' button. You can pause the timer with the 'pause' butt
 
 If you do not know the Job Number of your current work there is a *Job Lookup* field at the top that allows you to search for jobs by text. It's not great, but it might help. Clicking on an option will populate the *Job Number* field:
 
-![Quicksearch](Site/instructions/search.png "Quicksearch")
+![Quicksearch](instructions/search.png "Quicksearch")
 
 ---
 
@@ -58,7 +58,7 @@ If you do not know the Job Number of your current work there is a *Job Lookup* f
 
 The 'bell' button allows you to easily pause the timer for the lunch period. Click it then go for lunch and it will automatically start tracking after the lunch time has ended (you can change your lunch duration in setting (the cog button)).
 
-![Lunch popup](Site/instructions/lunch.png "Lunch Popup")
+![Lunch popup](instructions/lunch.png "Lunch Popup")
 
 ---
 
@@ -78,7 +78,7 @@ The 'send time' button will only be shown if you have unlogged time and have, fo
 
 There is a 'meeting' button next to the 'reset' button that allows you to pause the timer for a meeting and then, optionally, track the accrued time during the meeting to a bucket (or Job Number):
 
-![Meeting mode](Site/instructions/meeting.png "Meeting Mode")
+![Meeting mode](instructions/meeting.png "Meeting Mode")
 
 ---
 
@@ -92,7 +92,7 @@ The 'reset' button (on the right) will just reset everything without logging any
 
 To enable 'mini mode' click the arrow in the bottom right (and again to return to 'full mode'):
 
-![Mini mode](Site/instructions/mini.png "Mini Mode")
+![Mini mode](instructions/mini.png "Mini Mode")
 
 ---
 
@@ -100,7 +100,7 @@ To enable 'mini mode' click the arrow in the bottom right (and again to return t
 
 There are a couple of settings currently available including the ability to change the duration of your lunch as not everyone has 1 hour, and change your start and finish time (for reminders). If you use the lunch function make sure to set this to your lunch break time (default is 1 hour).
 
-![Lunch popup](Site/instructions/settings.png "Settings example")
+![Lunch popup](instructions/settings.png "Settings example")
 
 ## Copyright and License
 
