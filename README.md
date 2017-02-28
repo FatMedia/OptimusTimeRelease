@@ -1,6 +1,6 @@
 # OptimusTimeRelease
 
-Public releases for OptimusTime v1.2.7
+Public releases for OptimusTime v1.2.8
 
 **The Fat Media Time Tracker**
 
